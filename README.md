@@ -7,7 +7,7 @@ I am currently a student at the Posts and Telecommunications Institute of Techno
 - ✉️  You can contact me via doanminh750@gmail.com.
 
 ### My skill
-- <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100"/>
+Fast API <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100"/>
 
 <!--
 **trdminh/trdminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
