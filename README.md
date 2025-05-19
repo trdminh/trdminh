@@ -9,7 +9,7 @@ I am currently a student at the Posts and Telecommunications Institute of Techno
 ### My skill
 <p align="left">
   <!-- FastAPI -->
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />
+  <img src="[https://fastapi.tiangolo.com/](https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg)" alt="FastAPI" width="40" />
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <!--C/C++ -->
