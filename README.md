@@ -21,7 +21,8 @@ I am currently a student at the Posts and Telecommunications Institute of Techno
   <img src="https://www.tensorflow.org/images/tflite-icon.png" alt="TinyML / TF Lite" width="40"/>
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  
+  <!--C/C++ -->
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-line.svg" width="40">
   <!-- Machine Learning -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
